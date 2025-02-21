@@ -14,8 +14,6 @@ This repository contains Python implementations of numerical methods for solving
 
 ## 📂 Repository Structure
 
-- **`adams_predictor_corrector.py`**: Implements the Adams predictor-corrector method for solving IVPs.
-- **`runge_kutta_4th_order.py`**: Implements the 4th-order Runge-Kutta method for computing initial values.
 - **`README.md`**: This file, providing an overview of the project and instructions.
 
 ## 🛠️ Installation
@@ -79,8 +77,6 @@ y = e − x 2 y=e  −x 2 at every node. The absolute errors are computed to eva
 ⭐ Give the Repository a Star
 If you find this project useful or interesting, please consider giving it a ⭐ star on GitHub! Your support helps motivate further development and improvements.
 
-📝 License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 📧 Contact
 For questions or feedback, feel free to reach out:
